@@ -7,7 +7,7 @@
 Python/Django practice, creating an event calendar on the web.
 
 ##### Table of Contents
-[Summary](#summary)
+[Summary](#summary)<br />
 [Examples](#examples)<br />
 [YAML](#yaml)
 
