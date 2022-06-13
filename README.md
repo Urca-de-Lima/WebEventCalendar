@@ -1,7 +1,13 @@
 # WebEventCalendar
+
+<a name="summary"/>
+
+## Summary
+
 Python/Django practice, creating an event calendar on the web.
 
 ##### Table of Contents
+[Summary](#summary)
 [Examples](#examples)<br />
 [YAML](#yaml)
 
