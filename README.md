@@ -6,7 +6,9 @@ Python/Django practice, creating an event calendar on the web.
 [YAML](#yaml)
 
 <a name="examples"/>
+
 ## Examples
 
 <a name="yaml"/>
+
 ## YAML
