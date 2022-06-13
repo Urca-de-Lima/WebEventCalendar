@@ -18,3 +18,5 @@ Python/Django practice, creating an event calendar on the web.
 <a name="yaml"/>
 
 ## YAML
+
+[GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
