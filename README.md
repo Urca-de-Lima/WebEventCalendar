@@ -21,13 +21,13 @@ Python/Django practice, creating an event calendar on the web.
 
 ### Commands
 
-Install Django
+**Install Django**<br />
 python -m pip install django
 
-Start Project
+**Start Project**<br />
 python -m django startproject PROJECT_NAME
 
-Create/Start Application
+**Create/Start Application**
 python manage.py startapp APP_NAME
 
 [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
