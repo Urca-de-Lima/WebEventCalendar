@@ -28,6 +28,7 @@ python -m pip install django
 python -m django startproject PROJECT_NAME
 
 **Create/Start Application**
+
 python manage.py startapp APP_NAME
 
 [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
