@@ -36,4 +36,10 @@ python -m django startproject PROJECT_NAME
 python manage.py startapp APP_NAME
 ```
 
+**Run Server**<br />
+```
+python manage.py runserver
+```
+Ctrl+C or Ctrl+Break to quit server.
+
 [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
